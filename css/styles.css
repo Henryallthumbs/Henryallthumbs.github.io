@@ -12,4 +12,7 @@
     background: hsl(225, 100%, 94%) url("images/pattern-background-desktop.svg") no-repeat;
     letter-spacing: 0.02em;
   }
-
+  main {
+    height: 77.4%;
+    width: max(384px,31.25%);
+  }
