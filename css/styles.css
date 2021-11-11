@@ -1,7 +1,7 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background: hsl(225, 100%, 94%) url("images/pattern-background-mobile.svg") no-repeat;
+      letter-spacing: -0.02em;
+    }
 
 
-@media only screen and (min-width:601px) {
-  body {
-    background: hsl(225, 100%, 94%) url("images/pattern-background-desktop.svg") no-repeat;
-    letter-spacing: 0.02em;
-  }
