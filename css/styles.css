@@ -1,22 +1,5 @@
-@media {
+@media only screen and (min-width:601px) {
   body {
-    background: hsl(225, 100%, 94%) url("images/pattern-background-mobile.svg") no-repeat;
-    letter-spacing: -0.02em;
-      }
-}
-
-.music-note{
-  float:left;
-  margin-right:40px;
-}
-
-.price{
-  color:#203160;
-  margin:0;
-  padding:0;
-}
-
-h2 {
-  margin:0;
-  padding:0;
-}
+    background: hsl(225, 100%, 94%) url("images/pattern-background-desktop.svg") no-repeat;
+    letter-spacing: 0.02em;
+  }
